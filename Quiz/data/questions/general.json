@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+    "correct_answer": "Paris",
+    "difficulty": "easy",
+    "explanation": "Paris is the capital and most populous city of France.",
+    "image": ""
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correct_answer": "Mars",
+    "difficulty": "easy",
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface.",
+    "image": ""
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correct_answer": "Leonardo da Vinci",
+    "difficulty": "easy",
+    "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 16th century.",
+    "image": ""
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct_answer": "Pacific Ocean",
+    "difficulty": "easy",
+    "explanation": "The Pacific Ocean covers about 46% of Earth's water surface.",
+    "image": ""
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": "7",
+    "difficulty": "easy",
+    "explanation": "The seven continents are: Africa, Antarctica, Asia, Europe, North America, Australia, and South America.",
+    "image": ""
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct_answer": "Au",
+    "difficulty": "medium",
+    "explanation": "Au comes from the Latin word 'aurum' meaning gold.",
+    "image": ""
+  },
+  {
+    "question": "In what year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "correct_answer": "1945",
+    "difficulty": "medium",
+    "explanation": "World War II ended in 1945 with the surrender of Japan in September.",
+    "image": ""
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    "correct_answer": "William Shakespeare",
+    "difficulty": "medium",
+    "explanation": "Romeo and Juliet is one of Shakespeare's most famous tragedies.",
+    "image": ""
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correct_answer": "Vatican City",
+    "difficulty": "medium",
+    "explanation": "Vatican City is the smallest country with an area of about 0.44 square kilometers.",
+    "image": ""
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": ["186", "206", "226", "246"],
+    "correct_answer": "206",
+    "difficulty": "medium",
+    "explanation": "An adult human body has 206 bones.",
+    "image": ""
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["299,792 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "correct_answer": "299,792 km/s",
+    "difficulty": "hard",
+    "explanation": "The speed of light in vacuum is approximately 299,792 kilometers per second.",
+    "image": ""
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+    "correct_answer": "Neil Armstrong",
+    "difficulty": "easy",
+    "explanation": "Neil Armstrong was the first person to walk on the moon on July 20, 1969.",
+    "image": ""
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+    "correct_answer": "Blue Whale",
+    "difficulty": "easy",
+    "explanation": "The blue whale is the largest animal ever known to have lived on Earth.",
+    "image": ""
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+    "correct_answer": "Hydrogen",
+    "difficulty": "medium",
+    "explanation": "Hydrogen is the first element in the periodic table with atomic number 1.",
+    "image": ""
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+    "correct_answer": "Tokyo",
+    "difficulty": "easy",
+    "explanation": "Tokyo is the capital and largest city of Japan.",
+    "image": ""
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+    "correct_answer": "Albert Einstein",
+    "difficulty": "medium",
+    "explanation": "Albert Einstein developed the theory of relativity in the early 20th century.",
+    "image": ""
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correct_answer": "Nile River",
+    "difficulty": "medium",
+    "explanation": "The Nile River is generally considered the longest river at about 6,650 km.",
+    "image": ""
+  },
+  {
+    "question": "How many strings does a standard guitar have?",
+    "options": ["4", "5", "6", "7"],
+    "correct_answer": "6",
+    "difficulty": "easy",
+    "explanation": "A standard guitar has 6 strings.",
+    "image": ""
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correct_answer": "Diamond",
+    "difficulty": "medium",
+    "explanation": "Diamond is the hardest naturally occurring substance known.",
+    "image": ""
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["1910", "1911", "1912", "1913"],
+    "correct_answer": "1912",
+    "difficulty": "medium",
+    "explanation": "The Titanic sank on April 15, 1912, after hitting an iceberg.",
+    "image": ""
+  }
+]

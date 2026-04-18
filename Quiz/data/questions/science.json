@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correct_answer": "Mars",
+    "difficulty": "easy",
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface.",
+    "image": ""
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct_answer": "Au",
+    "difficulty": "medium",
+    "explanation": "Au comes from the Latin word 'aurum' meaning gold.",
+    "image": ""
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["299,792 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "correct_answer": "299,792 km/s",
+    "difficulty": "hard",
+    "explanation": "The speed of light in vacuum is approximately 299,792 kilometers per second.",
+    "image": ""
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct_answer": "Carbon Dioxide",
+    "difficulty": "easy",
+    "explanation": "Plants absorb carbon dioxide during photosynthesis.",
+    "image": ""
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correct_answer": "Diamond",
+    "difficulty": "medium",
+    "explanation": "Diamond is the hardest naturally occurring substance known.",
+    "image": ""
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "correct_answer": "100°C",
+    "difficulty": "easy",
+    "explanation": "Water boils at 100°C (212°F) at sea level.",
+    "image": ""
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": ["186", "206", "226", "246"],
+    "correct_answer": "206",
+    "difficulty": "medium",
+    "explanation": "An adult human body has 206 bones.",
+    "image": ""
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+    "correct_answer": "Hydrogen",
+    "difficulty": "medium",
+    "explanation": "Hydrogen is the first element in the periodic table with atomic number 1.",
+    "image": ""
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Polar Bear"],
+    "correct_answer": "Blue Whale",
+    "difficulty": "easy",
+    "explanation": "The blue whale is the largest animal ever known to have lived on Earth.",
+    "image": ""
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+    "correct_answer": "Albert Einstein",
+    "difficulty": "medium",
+    "explanation": "Albert Einstein developed the theory of relativity in the early 20th century.",
+    "image": ""
+  }
+]

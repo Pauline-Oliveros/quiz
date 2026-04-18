@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": "4",
+    "difficulty": "easy",
+    "explanation": "Basic arithmetic: 2 + 2 equals 4.",
+    "image": ""
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "correct_answer": "12",
+    "difficulty": "medium",
+    "explanation": "12 × 12 = 144, so the square root of 144 is 12.",
+    "image": ""
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "correct_answer": "2",
+    "difficulty": "medium",
+    "explanation": "2 is the smallest and only even prime number.",
+    "image": ""
+  },
+  {
+    "question": "What is 15 × 15?",
+    "options": ["200", "225", "250", "275"],
+    "correct_answer": "225",
+    "difficulty": "easy",
+    "explanation": "15 multiplied by 15 equals 225.",
+    "image": ""
+  },
+  {
+    "question": "How many degrees are in a right angle?",
+    "options": ["45", "90", "180", "360"],
+    "correct_answer": "90",
+    "difficulty": "easy",
+    "explanation": "A right angle measures exactly 90 degrees.",
+    "image": ""
+  },
+  {
+    "question": "What is the value of π (pi) to two decimal places?",
+    "options": ["3.14", "3.15", "3.16", "3.17"],
+    "correct_answer": "3.14",
+    "difficulty": "easy",
+    "explanation": "π is approximately 3.14159, so to two decimal places it's 3.14.",
+    "image": ""
+  },
+  {
+    "question": "What is 7 × 8?",
+    "options": ["48", "54", "56", "64"],
+    "correct_answer": "56",
+    "difficulty": "easy",
+    "explanation": "7 multiplied by 8 equals 56.",
+    "image": ""
+  },
+  {
+    "question": "What is the area of a rectangle with length 10 and width 5?",
+    "options": ["15", "30", "50", "100"],
+    "correct_answer": "50",
+    "difficulty": "medium",
+    "explanation": "Area = length × width = 10 × 5 = 50.",
+    "image": ""
+  },
+  {
+    "question": "Solve for x: 2x + 5 = 15",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": "5",
+    "difficulty": "medium",
+    "explanation": "2x + 5 = 15 → 2x = 10 → x = 5.",
+    "image": ""
+  },
+  {
+    "question": "What is 3 to the power of 3?",
+    "options": ["9", "18", "27", "81"],
+    "correct_answer": "27",
+    "difficulty": "medium",
+    "explanation": "3³ = 3 × 3 × 3 = 27.",
+    "image": ""
+  }
+]

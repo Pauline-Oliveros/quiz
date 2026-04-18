@@ -1,4 +1,53 @@
-# Getting Started with Create React App
+# Quiz Application Project
+
+This repository contains two quiz applications:
+
+1. **React Quiz App** - A simple React-based quiz application
+2. **Professional PHP Quiz System** - A full-featured quiz system (in `/Quiz` folder)
+
+---
+
+## 🎓 Professional PHP Quiz System (Recommended)
+
+A complete, professional quiz system built with PHP and HTML, designed for educational institutions.
+
+### Features
+- ✅ Multiple categories (Math, Science, History, Geography, Programming, General Knowledge)
+- ✅ 3 difficulty levels (Easy, Medium, Hard)
+- ✅ Timed mode with countdown timer
+- ✅ Student tracking with ID
+- ✅ Leaderboard system
+- ✅ Certificate generation
+- ✅ Answer review with explanations
+- ✅ Admin dashboard
+- ✅ Results history
+- ✅ Responsive design
+
+### Quick Start
+
+**Option 1: Using PHP Built-in Server**
+```bash
+cd Quiz
+php -S localhost:8000
+```
+Then open: http://localhost:8000
+
+**Option 2: Using XAMPP/WAMP**
+- Copy the `Quiz` folder to `htdocs` (XAMPP) or `www` (WAMP)
+- Open: http://localhost/Quiz
+
+### Admin Access
+- URL: http://localhost:8000/admin/login.php
+- Username: `admin`
+- Password: `admin123`
+- ⚠️ Change credentials in production!
+
+### Documentation
+See [Quiz/README.md](Quiz/README.md) for complete documentation.
+
+---
+
+## ⚛️ React Quiz App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
